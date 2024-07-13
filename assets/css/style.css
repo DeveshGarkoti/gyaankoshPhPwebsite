@@ -1,0 +1,15 @@
+.navbar{
+    padding: 0px;
+}
+
+.nav-link{
+    border-right: 4px;
+    padding: 8px 20px !important;
+}
+
+.red-underline{
+    height: 4px;
+    width: 50px;
+    background-color: red;
+    margin-bottom: 20px;
+}
